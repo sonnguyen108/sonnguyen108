@@ -15,15 +15,20 @@ You can use the website to generate badges: https://shields.io/
 **About Me:**
 - I’m Software Engineer in VTX
 - I experienced with AI/ComputerVision deployments, Microservices system, Edge AI Embedded, Desktop Applications. 
-- I’m currently working on __[Chalkboard](https://github.com/zjayers/chalkboard)__.
 - I’m experienced with __C/C++__, & __GoLang__.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
 - How to reach me: __z.ayers@icloud.com__
 
 ---
+**Technical Skills:**
+- Language: __C/C++__, & __GoLang__.
+- Cloud: __AWS__.
+- Infras & DevOps: __Jenkins__, __K8s__, __IaC__
+- Frameworks: __Qt__, __Nvidia___, __Gstreamer__
+- 
 
-**Languages and Tools:**
+**Tools:**
 
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
