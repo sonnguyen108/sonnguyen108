@@ -27,9 +27,8 @@ You can use the website to generate badges: https://shields.io/
 - Infras & DevOps: __Jenkins__, __K8s__, __IaC__
 - Frameworks: __Qt__, __Nvidia___, __Gstreamer__
 - 
-
+---
 **Tools:**
-
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
