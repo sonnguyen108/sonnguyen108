@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hello, I'm Zach Ayers!
+## Hello, I am Son Ng!
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -13,12 +13,12 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- Talking about you -->
 **About Me:**
-
+- I’m Software Engineer in VTX
+- I experienced with AI/ComputerVision deployments, Microservices system, Edge AI Embedded, Desktop Applications. 
 - I’m currently working on __[Chalkboard](https://github.com/zjayers/chalkboard)__.
-- I’m currently learning __Ruby__, __PHP__, & __GoLang__.
+- I’m experienced with __C/C++__, & __GoLang__.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
-- Fun-Fact: I was a mechanical engineering before becoming a software engineer.
 - How to reach me: __z.ayers@icloud.com__
 
 ---
