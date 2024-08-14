@@ -18,7 +18,6 @@ You can use the website to generate badges: https://shields.io/
 - I’m experienced with __C/C++__, & __GoLang__.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
-- How to reach me: __z.ayers@icloud.com__
 
 ---
 **Technical Skills:**
@@ -26,7 +25,6 @@ You can use the website to generate badges: https://shields.io/
 - Cloud: __AWS__.
 - Infras & DevOps: __Jenkins__, __K8s__, __IaC__
 - Frameworks: __Qt__, __Nvidia___, __Gstreamer__
-- 
 ---
 **Tools:**
 <p>
