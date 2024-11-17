@@ -13,7 +13,8 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- Talking about you -->
 **About Me:**
-- I’m Software Engineer in VTX
+- I’m Software Engineer in VTX - Viettel
+- AIoT technologies
 - I experienced with AI/ComputerVision deployments, Microservices system, Edge AI Embedded, Desktop Applications. 
 - I’m experienced with __C/C++__, & __GoLang__.
 - I’m looking to collaborate on anything!
